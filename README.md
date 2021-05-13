@@ -5,7 +5,7 @@ PDF's of helpful study information
         I have created helpful study sheets for those wanting to learn programming to college students currently enrolled in software courses.
     <p></p>
         I have created content in the following areas:
-            <p>* <a href = "">Programming Basics</a></p>
+            <p>* <a href = "https://github.com/ellarekow/ellasstudy/tree/main/Programming%20Basics">Programming Basics</a></p>
             <p></p>
         <p>Follow me on Social Media :) </p>
         <p><a href = "https://www.instagram.com/ellasstudy/">Instagram</a></p>
