@@ -11,5 +11,5 @@ PDF's of helpful study information
         <p><a href = "https://www.tiktok.com/@ellasstudy?">TikTok</a></p>
         <p><a href = "https://www.linkedin.com/in/ella-rekow-95985a182/">LinkedIn</a></p>
     <p> Other helpful links! </p>
-    <p> <a href = https://www.youtube.com/watch?v=S_GLO5la_nI&ab_channel=Amigoscode>How to install / set up IntelliJ</a> (a java IDE)</p>
+    <p><a href = https://www.youtube.com/watch?v=S_GLO5la_nI&ab_channel=Amigoscode>How to install / set up IntelliJ</a> (a java IDE)</p>
     </p>
