@@ -3,8 +3,6 @@ PDF's of helpful study information
     <h1>Get Helpful Study Sheets!</h1>
     <p>
         I have created helpful study sheets for those wanting to learn programming to college students currently enrolled in software courses.
-    
-    <p></p>
         I have created content in the following areas:
             <p>* <a href = "">Programming Basics</a></p>
             <p></p>
