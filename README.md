@@ -1,8 +1,8 @@
 # ellasstudy
-PDF's of helpful study information
+PDF's of helpful study help! 
     <h1>Get Helpful Study Sheets!</h1>
     <p>
-        I have created helpful study sheets for those wanting to learn programming to college students currently enrolled in software courses.
+        I have created helpful study sheets or practice for those wanting to learn programming to college students currently enrolled in STEM.
         I have created content in the following areas:
             <p>* <a href = "https://github.com/ellarekow/ellasstudy/tree/main/Programming%20Basics">Programming Basics</a></p>
             <p>* <a href = "https://github.com/ellarekow/ellasstudy/tree/main/Physics">Physics</a></p>
