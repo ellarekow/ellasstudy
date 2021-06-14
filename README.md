@@ -6,6 +6,7 @@ PDF's of helpful study help!
         I have created content in the following areas:
             <p>* <a href = "https://github.com/ellarekow/ellasstudy/tree/main/Programming%20Basics">Programming Basics</a></p>
             <p>* <a href = "https://github.com/ellarekow/ellasstudy/tree/main/Physics">Physics</a></p>
+            <p>* <a href = "https://github.com/ellarekow/ellasstudy/tree/main/HTML">HTML</a></p>
             <p></p>
         <h3>Follow me on Social Media :) </h3>
         <p><a href = "https://www.instagram.com/ellasstudy/">Instagram</a></p>
