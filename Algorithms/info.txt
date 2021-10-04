@@ -1,0 +1,1 @@
+These will be based off my studying for my Introduction to Data Structures (COM S 228) class at Iowa State. Please send me an email or create an issue if you see any incorrect information.
